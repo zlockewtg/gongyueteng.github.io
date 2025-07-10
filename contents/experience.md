@@ -8,11 +8,6 @@ Worked on the development and optimization of large-scale recommendation systems
 - Designed and implemented real-time data processing workflows to improve model inference efficiency.  
 - Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
 
----
-<video controls width="640" height="360">
-  <source src="magnetic.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 ### **软件工程师实习生**  
 **2025年1月 – 2025年6月 | 字节跳动**  
 
