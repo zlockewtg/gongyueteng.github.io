@@ -8,9 +8,8 @@
   <img src="https://raw.githubusercontent.com/zlockewtg/gongyueteng.github.io/main/contents/img/magnet3.png" width="45%">
 </p>
 
-
-
 #### 主要贡献:  
+
 - 主动电次定位系统的搭建与实验
 - 论文撰写与绘图
 
@@ -34,7 +33,8 @@
   <img src="https://raw.githubusercontent.com/zlockewtg/gongyueteng.github.io/main/contents/img/vln5.png" width="60%">
 </p>
 
-#### 主要贡献:  
+#### 主要贡献: 
+ 
 - 探索Habitat, Matterport3D, Arena Rosnav，Ai2thor等仿真器；并在Ai2thor和Habitat中生成动态环境  
 - 测试了直接让多模态大模型基于第一人称观测图片和俯视图进行预测 
 - 参与意图估计模块的设计
