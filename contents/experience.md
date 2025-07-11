@@ -29,6 +29,7 @@
 **2025年1月 – 2025年6月 | 上海交通大学IRMV实验室**  
 
 面向室内导航场景，研究目标是提升机器人在人机协作中的导航能力，尤其是在存在动态物体的环境中，实现更加安全、自然的 Social Navigation。为此，我们尝试引入多模态大模型的先验知识，进行动态物体的轨迹预测，从而有效避免与人类或其他移动实体发生碰撞。
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/zlockewtg/gongyueteng.github.io/main/contents/img/vln5.png" width="60%">
 </p>
