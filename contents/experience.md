@@ -67,10 +67,15 @@
 
 #### 2. 多功能校车（大二）  
 
-![alt text](img/car1.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zlockewtg/gongyueteng.github.io/main/contents/img/car1.png" width="60%">
+</p>
 
+校车在专业比赛中获第一名，同时我设计的海报获最佳海报奖
 
-![alt text](img/car2.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zlockewtg/gongyueteng.github.io/main/contents/img/car2.png" width="60%">
+</p>
 
 #### 3. 宿舍智能语音控制系统（大三上）  
 <div style="text-align: center;">
