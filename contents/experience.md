@@ -2,10 +2,17 @@
 **2024年4月 – 2025年2月 | 华南理工大学**  
 
 Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
-<div align="center">
-  <img src="../static/assets/img/magnet3.png" width="40%" style="margin: 0 10px;">
-  <img src="../static/assets/img/magnet2.png" width="40%" style="margin: 0 10px;">
-</div>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="/static//assets/img/magnet2.png" width="90%">
+    </td>
+    <td align="center">
+      <img src="/static/assets/img/magnet3.png" width="90%">
+    </td>
+  </tr>
+</table>
 
 #### Key Contributions:  
 - Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
