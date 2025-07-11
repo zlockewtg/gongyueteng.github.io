@@ -34,6 +34,12 @@
 - 探索Habitat, Matterport3D, Arena Rosnav，Ai2thor等仿真器；并在Ai2thor和Habitat中生成动态环境  
 - 测试了直接让多模态大模型基于第一人称观测图片和俯视图进行预测 
 - 参与意图估计模块的设计
+- 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zlockewtg/gongyueteng.github.io/main/contents/img/vln1.gif" width="32%" style="margin: 0 1%;">
+  <img src="https://raw.githubusercontent.com/zlockewtg/gongyueteng.github.io/main/contents/img/vln2.gif" width="32%" style="margin: 0 1%;">
+  <img src="https://raw.githubusercontent.com/zlockewtg/gongyueteng.github.io/main/contents/img/vln3.gif" width="32%" style="margin: 0 1%;">
+</p>
 
 ### **课程设计**
 #### 1. 水上机器人（大一）  
