@@ -2,13 +2,15 @@
 
 I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
 
-#### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+- Email  ：<code>tgy15380418179@163.com</code>  
+- phone  ： <code>15380418179</code>
+- wechat :  <code>Zlowckm</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**South China University of Technology**, Bachelor of Engineering (2022 – 2026)  
+
+• GPA: 3.85/4  
+
 
 **XX University**, Exchange student <br>  
 • As a XX, represented my college as an outstanding student for a XX exchange program.  
