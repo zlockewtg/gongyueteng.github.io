@@ -10,6 +10,6 @@ I'm currently pursuing the bachelor’s degree in Robotics Engineering at Shien-
 **South China University of Technology**, Bachelor of Engineering (2022 – 2026)  
 
 - GPA: 3.85/4  
-- Rank: 5
+- Rank: 5 （top 9%）
 - CET6: 539
 
