@@ -67,9 +67,14 @@
 
 #### 2. 多功能校车（大二）  
 
+![alt text](img/car1.png)
+
+
+![alt text](img/car2.png)
+
 #### 3. 宿舍智能语音控制系统（大三上）  
 <div style="text-align: center;">
-    <h4>water robot demo</h4>
+    <h4>Intelligent voice control system for dormitories </h4>
     <iframe width="720" height="405"
         src="https://www.youtube.com/embed/IbRcI_KsfK0"
         frameborder="0"
