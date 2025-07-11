@@ -12,6 +12,11 @@
   </tr>
 </table>
 
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="img/magnet2.png" style="width: 45%;">
+  <img src="img/magnet3.png" style="width: 45%;">
+</div>
+
 #### 主要贡献:  
 - 主动电次定位系统的搭建与实验
 - 论文撰写与绘图
@@ -25,10 +30,10 @@
         allowfullscreen>
     </iframe>
 </div>
-<a href="https://www.youtube.com/embed/JWo8pzJ2kVc" target="_blank">如果视频没有显示，请点击这里</a>
+<a href="https://www.youtube.com/embed/JWo8pzJ2kVc" target="_blank">如果视频无法播放，请点击这里</a>
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
+### **具身智能**  
+**2025年1月 – 2025年6月 | 上海交通大学IRMV实验室**  
 
 负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
 
