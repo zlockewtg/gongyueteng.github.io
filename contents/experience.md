@@ -3,13 +3,18 @@
 
 Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
 
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="/assets/img/magnet2.png" style="width: 45%;">
+  <img src="/assets/img/magnet3.png" style="width: 45%;">
+</div>
+
 <table align="center">
   <tr>
     <td align="center">
-      <img src="/static//assets/img/magnet2.png" width="90%">
+      <img src="/static//assets/img/magnet2.png" width="40%">
     </td>
     <td align="center">
-      <img src="/static/assets/img/magnet3.png" width="90%">
+      <img src="/static/assets/img/magnet3.png" width="40%">
     </td>
   </tr>
 </table>
