@@ -54,7 +54,7 @@
 #### 1. 水上机器人（大一）  
 
 <div style="text-align: center;">
-    <h4>water robot demo</h4>
+    <h4>Water Robot demo</h4>
     <iframe width="720" height="405"
         src="https://www.youtube.com/embed/2G982yyzsSM"
         frameborder="0"
@@ -74,7 +74,7 @@
 
 #### 3. 宿舍智能语音控制系统（大三上）  
 <div style="text-align: center;">
-    <h4>Intelligent voice control system for dormitories </h4>
+    <h4>Intelligent Voice Control System for Dormitories </h4>
     <iframe width="720" height="405"
         src="https://www.youtube.com/embed/IbRcI_KsfK0"
         frameborder="0"
@@ -88,7 +88,7 @@
 #### 4. 辅助攀爬手套（大三下）  
 
 <div style="text-align: center;">
-    <h4>water robot demo</h4>
+    <h4>Auxiliary Climbing Gloves Demo</h4>
     <iframe width="720" height="405"
         src="https://www.youtube.com/embed/zN7BMfA36fU"
         frameborder="0"
