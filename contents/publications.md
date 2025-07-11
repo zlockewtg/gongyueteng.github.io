@@ -3,12 +3,13 @@
 <br>
 </br>
 
-<h4 align="center">Active Magnetic Tracking Demo</h4>
-
-<iframe width="1080" height="720"
-    src="https://www.youtube.com/embed/JWo8pzJ2kVc"
-    title="YouTube video player"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
+<div style="text-align: center;">
+    <h4>Active Magnetic Tracking Demo</h4>
+    <iframe width="720" height="405"
+        src="https://www.youtube.com/embed/JWo8pzJ2kVc"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen>
+    </iframe>
+</div>
