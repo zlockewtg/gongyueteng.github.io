@@ -5,12 +5,7 @@
 
 <div style="text-align: center;">
     <h4>Active Magnetic Tracking Demo</h4>
-   
 </div>
- <iframe width="720" height="405"
-        src="https://www.youtube.com/embed/JWo8pzJ2kVc"
-        title="YouTube video player"
-        frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen>
-    </iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JWo8pzJ2kVc?autoplay=1" frameborder="0" allowfullscreen></iframe>
