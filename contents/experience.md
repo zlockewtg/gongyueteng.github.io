@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zlockewtg/gongyueteng.github.io/main/contents/img/magnet5.png" width="60%">
+  <img src="https://raw.githubusercontent.com/zlockewtg/gongyueteng.github.io/main/contents/img/magnet5.png" width="90%">
 </p>
 
 #### 主要贡献:  
