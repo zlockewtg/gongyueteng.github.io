@@ -1,28 +1,20 @@
 ### **主动电次定位系统**  
 **2024年4月 – 2025年2月 | 华南理工大学**  
-
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
-
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="/assets/img/magnet2.png" style="width: 45%;">
-  <img src="/assets/img/magnet3.png" style="width: 45%;">
-</div>
-
+理论解析了单磁源系统的定位精度空间分布，构建了磁灵敏度与定位精度的关系。通过两周云台结构旋转磁源，构建主动电磁定位系统，实现周向的高精度定位。
 <table align="center">
   <tr>
     <td align="center">
-      <img src="/static//assets/img/magnet2.png" width="40%">
+      <img src="img/magnet2.png" width="90%">
     </td>
     <td align="center">
-      <img src="/static/assets/img/magnet3.png" width="40%">
+      <img src="img/magnet3.png" width="90%">
     </td>
   </tr>
 </table>
 
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+#### 主要贡献:  
+- 主动电次定位系统的搭建与实验
+- 论文撰写与绘图
 
 <div style="text-align: center;">
     <h4>Active Magnetic Tracking Demo</h4>
