@@ -53,8 +53,43 @@
 ### **课程设计**
 #### 1. 水上机器人（大一）  
 
+<div style="text-align: center;">
+    <h4>water robot demo</h4>
+    <iframe width="720" height="405"
+        src="https://www.youtube.com/embed/2G982yyzsSM"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen>
+    </iframe>
+</div>
+
+<a href="https://www.youtube.com/embed/2G982yyzsSM" target="_blank">如果视频无法播放，请点击这里</a>
+
 #### 2. 多功能校车（大二）  
 
-#### 3. 水上机器人（大三上）  
+#### 3. 宿舍智能语音控制系统（大三上）  
+<div style="text-align: center;">
+    <h4>water robot demo</h4>
+    <iframe width="720" height="405"
+        src="https://www.youtube.com/embed/IbRcI_KsfK0"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen>
+    </iframe>
+</div>
 
-#### 4. 水上机器人（大三下）  
+<a href="https://www.youtube.com/embed/IbRcI_KsfK0" target="_blank">如果视频无法播放，请点击这里</a>
+
+#### 4. 辅助攀爬手套（大三下）  
+
+<div style="text-align: center;">
+    <h4>water robot demo</h4>
+    <iframe width="720" height="405"
+        src="https://www.youtube.com/embed/zN7BMfA36fU"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen>
+    </iframe>
+</div>
+
+<a href="https://www.youtube.com/embed/zN7BMfA36fU" target="_blank">如果视频无法播放，请点击这里</a>
