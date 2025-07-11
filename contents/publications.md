@@ -5,7 +5,11 @@
 
 <div style="text-align: center;">
     <h4>Active Magnetic Tracking Demo</h4>
+    <iframe width="720" height="405"
+        src="https://www.youtube.com/embed/JWo8pzJ2kVc"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen>
+    </iframe>
 </div>
-
-
-<iframe width="560" height="315" src="https://www.flexclip.com/cn/share/13225045f016af4d082a387d2727f012288a7547.html" frameborder="0" allowfullscreen></iframe>
+<a href="https://www.youtube.com/embed/JWo8pzJ2kVc" target="_blank">如果视频没有显示，请点击这里</a>

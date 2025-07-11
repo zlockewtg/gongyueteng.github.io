@@ -1,10 +1,10 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+
+I'm currently pursuing the bachelor’s degree in Robotics Engineering at Shien-Ming Wu School of Intelligent Engineering, South China University of Technology, Guangzhou, China
 
 - Email  ：<code>tgy15380418179@163.com</code>  
-- phone  ： <code>15380418179</code>
-- wechat :  <code>Zlowckm</code>
+- Phone  ： <code>15380418179</code>
+- Wechat :  <code>Zlowckm</code>
 
 #### Education  
 **South China University of Technology**, Bachelor of Engineering (2022 – 2026)  
